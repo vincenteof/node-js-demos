@@ -1,0 +1,11 @@
+{
+  "name": "node-echo",
+  "version": "0.0.1",
+  "description": "node echo",
+  "main": "./lib/echo.js",
+  "author": "vincenteof",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "^0.0.2"
+  }
+}
